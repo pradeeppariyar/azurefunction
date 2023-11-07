@@ -1,1 +1,2 @@
-print('welcome to the new')
+def add(self, a,b):
+    return a+b
